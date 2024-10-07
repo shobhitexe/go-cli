@@ -1,0 +1,20 @@
+[
+    {
+        "Title": "Task 1",
+        "Completed": true,
+        "CreatedAt": "2024-10-07T18:19:30.7543707+05:30",
+        "CompletedAt": "2024-10-07T18:19:30.7543707+05:30"
+    },
+    {
+        "Title": "Task 2",
+        "Completed": false,
+        "CreatedAt": "2024-10-07T18:19:30.7543707+05:30",
+        "CompletedAt": null
+    },
+    {
+        "Title": "New Task 3",
+        "Completed": false,
+        "CreatedAt": "2024-10-07T18:54:15.1469908+05:30",
+        "CompletedAt": null
+    }
+]
